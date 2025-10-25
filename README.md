@@ -8,5 +8,9 @@ GOKUL O S
 -calculate average and grade
 -displays result summary
 ## how to run 
-clone the responsitary:'git clone https://github.com/gokul848/main.py navigate to the folder:
+clone the responsitary:'git clone https://github.com/gokul848/main.py navigate to the folder:'cd main.py' run the program:'python main.py'
+## tools/libraries used
+languages :python project management:github issues and kanban board
+## contributers
+GOPIKA G
 
