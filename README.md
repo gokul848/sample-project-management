@@ -12,5 +12,5 @@ clone the responsitary:'git clone https://github.com/gokul848/main.py navigate t
 ## tools/libraries used
 languages :python project management:github issues and kanban board
 ## contributers
-GOPIKA G
+GOKUL O S
 
